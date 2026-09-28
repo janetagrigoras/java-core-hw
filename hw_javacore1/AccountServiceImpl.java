@@ -1,3 +1,5 @@
+package hw_javacore1;
+
 public class AccountServiceImpl implements AccountService{
     Account[] accs;
     AccountServiceImpl(Account[] accs) {

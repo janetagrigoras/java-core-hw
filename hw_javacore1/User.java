@@ -1,3 +1,5 @@
+package hw_javacore1;
+
 class User {
 
     private long id;

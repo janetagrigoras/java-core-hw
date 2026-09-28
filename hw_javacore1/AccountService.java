@@ -1,3 +1,5 @@
+package hw_javacore1;
+
 interface AccountService {
     /**
      * It finds an account by owner id

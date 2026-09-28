@@ -1,3 +1,5 @@
+package hw_javacore1;
+
 public class MakingChanges {
     public static void changeIdentities(Person p1, Person p2) {
         String tempName = p1.name;

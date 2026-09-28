@@ -1,3 +1,5 @@
+package hw_javacore1;
+
 class Account {
 
     private long id;

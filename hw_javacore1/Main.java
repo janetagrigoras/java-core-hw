@@ -1,3 +1,5 @@
+package hw_javacore1;
+
 import java.util.Scanner;
 
 public class Main {
@@ -82,7 +84,7 @@ public class Main {
         if (found != null) {
             System.out.println("Found account:\n" + "Id: " + found.getId() + "\nOwner: " + found.getOwner().getFirstName() + " " + found.getOwner().getLastName());
         } else {
-            System.out.println("Account not found");
+            System.out.println("hw_javacore1.Account not found");
         }
 
         // Test countAccountsWithBalanceGreaterThan

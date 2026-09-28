@@ -1,3 +1,5 @@
+package hw_javacore1;
+
 public class task2 {
     public String reverseLoop(String str) {
         String result = "";
